@@ -1,4 +1,5 @@
 
+![tellme dump extractor](https://github.com/darklysteamgear/tellmeExtractor/assets/61528531/68949465-6f0f-43e0-acf7-a440a3997922)
 
 # The Tellme Dump File Extractor
 Are you tired of not being able to use code to generate configuration files based on the item lists that tellme has generated? well look no more, the tell me extractor allows you to import those generated lists into a python dictionary for easier manipulation and creation of custom modpack configurations!
