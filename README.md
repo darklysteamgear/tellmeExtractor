@@ -5,9 +5,10 @@
 Are you tired of not being able to use code to generate configuration files based on the item lists that tellme has generated? well look no more, the tell me extractor allows you to import those generated lists into a python dictionary for easier manipulation and creation of custom modpack configurations!
 
 ## CURRENT SUPPORTED DUMP FILES:
--Biome dumps
-- Entity Dumps
-- Item Dumps
+- Biome dumps
+- Entity dumps
+- Item dumps
+- Block dumps
 - Dimension dumps
 
 ## REQUIREMENTS:
